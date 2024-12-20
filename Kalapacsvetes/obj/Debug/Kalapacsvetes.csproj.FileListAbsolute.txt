@@ -1,0 +1,14 @@
+C:\Users\tamas\Desktop\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+C:\Users\tamas\Desktop\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+C:\Users\tamas\Desktop\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+C:\Users\tamas\Desktop\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+C:\Users\tamas\Desktop\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\tamas\Desktop\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+C:\Users\tamas\Desktop\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
