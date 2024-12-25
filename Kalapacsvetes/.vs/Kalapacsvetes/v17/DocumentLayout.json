@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tamas\\Desktop\\Kalapacsvetes\\",
+  "WorkspaceRootPath": "E:\\github repos\\Asztali_Project_KT_PP\\Kalapacsvetes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2812AB33-5CC5-4BF1-BA2A-562B7630A2C2}|Kalapacsvetes.csproj|c:\\users\\tamas\\desktop\\kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2812AB33-5CC5-4BF1-BA2A-562B7630A2C2}|Kalapacsvetes.csproj|e:\\github repos\\asztali_project_kt_pp\\kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2812AB33-5CC5-4BF1-BA2A-562B7630A2C2}|Kalapacsvetes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2812AB33-5CC5-4BF1-BA2A-562B7630A2C2}|Kalapacsvetes.csproj|C:\\Users\\tamas\\Desktop\\Kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2812AB33-5CC5-4BF1-BA2A-562B7630A2C2}|Kalapacsvetes.csproj|E:\\github repos\\Asztali_Project_KT_PP\\Kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2812AB33-5CC5-4BF1-BA2A-562B7630A2C2}|Kalapacsvetes.csproj|solutionrelative:sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Sportolo.cs",
-              "DocumentMoniker": "C:\\Users\\tamas\\Desktop\\Kalapacsvetes\\Sportolo.cs",
+              "DocumentMoniker": "E:\\github repos\\Asztali_Project_KT_PP\\Kalapacsvetes\\Sportolo.cs",
               "RelativeDocumentMoniker": "Sportolo.cs",
-              "ToolTip": "C:\\Users\\tamas\\Desktop\\Kalapacsvetes\\Sportolo.cs",
+              "ToolTip": "E:\\github repos\\Asztali_Project_KT_PP\\Kalapacsvetes\\Sportolo.cs",
               "RelativeToolTip": "Sportolo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tamas\\Desktop\\Kalapacsvetes\\Program.cs",
+              "DocumentMoniker": "E:\\github repos\\Asztali_Project_KT_PP\\Kalapacsvetes\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tamas\\Desktop\\Kalapacsvetes\\Program.cs",
+              "ToolTip": "E:\\github repos\\Asztali_Project_KT_PP\\Kalapacsvetes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAAB0AAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwIIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T17:45:27.623Z",
               "EditorCaption": ""

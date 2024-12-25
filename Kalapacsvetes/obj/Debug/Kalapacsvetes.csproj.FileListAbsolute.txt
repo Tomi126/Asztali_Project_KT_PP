@@ -12,3 +12,10 @@ C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvet
 C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
 C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
 C:\Users\tamas\OneDrive - BGSzC Pestszentlőrinci Technikum\12\C#_12\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+E:\github repos\Asztali_Project_KT_PP\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
